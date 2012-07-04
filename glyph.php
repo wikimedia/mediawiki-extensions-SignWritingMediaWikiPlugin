@@ -32,7 +32,7 @@
 /**
  * include general iswa library
  */
-include 'bsw.php';
+include 'bsw_encoding.php';
 include 'spl.php';
 include 'image.php';
 

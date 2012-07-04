@@ -32,7 +32,7 @@
 /**
  * include general libraries
  */
-include 'msw.php';
+include 'msw_main.php';
 include 'image.php';
 
 /**

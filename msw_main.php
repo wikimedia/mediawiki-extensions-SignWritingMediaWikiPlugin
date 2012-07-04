@@ -43,10 +43,10 @@
  *  Conversion functions
  */
 
-include( 'bsw.php' );
-include( 'csw.php' );
-include ( 'ksw.php' );
-include ( 'fsw.php' );
+include( 'bsw_encoding.php' );
+include( 'csw_unicode.php' );
+include ( 'ksw_display.php' );
+include ( 'fsw_search.php' );
 
 /**
  * @brief test if text uses lanes

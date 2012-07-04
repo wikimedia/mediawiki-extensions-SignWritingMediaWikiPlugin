@@ -81,7 +81,7 @@ $wgSWMPoffset = 50;
 $wgSWMPtop = 0;
 $wgSWMPjustify = 3;
 
-include 'msw.php';
+include 'msw_main.php';
 
 $wgSWMPVersion = '2.0.0';
 $wgExtensionCredits['parserhook'][] = array(

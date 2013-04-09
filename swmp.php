@@ -30,7 +30,7 @@
  */
 
 $wgSWMPVersion = '3.0.0';
-$wgExtensionCredits['other'][] = array(
+$wgExtensionCredits['interface'][] = array(
 	'name' => 'SignWriting MediaWiki Plugin',
 	'version' => $wgSWMPVersion,
 	'author' => 'Stephen E Slevinski Jr',

@@ -30,13 +30,14 @@
  */
 
 $wgSWMPVersion = '3.0.0';
-$wgExtensionCredits['interface'][] = array(
+$wgExtensionCredits['other'][] = array(
+	'path' => __FILE__,
 	'name' => 'SignWriting MediaWiki Plugin',
 	'version' => $wgSWMPVersion,
 	'author' => 'Stephen E Slevinski Jr',
-	'url' => 'http://www.mediawiki.org/wiki/Extension:SignWriting_MediaWiki_Plugin',
-	'description' => 'MediaWiki wrapper for the SignWriting Thin Viewer'
-	);
+	'url' => 'https://www.mediawiki.org/wiki/Extension:SignWriting_MediaWiki_Plugin',
+	'descriptionmsg' => 'swmp-desc'
+);
 $wgResourceModules['ext.swmp'] = array(
         'scripts' => 'signwriting_thin.js', 
 	'localBasePath' => __DIR__,
@@ -49,4 +50,3 @@ function swmpBeforePageDisplay(&$out){
   $out->addModules( 'ext.swmp' );
   return true;
 }
-?>

@@ -28,3 +28,17 @@ $messages['qqq'] = array(
 $messages['de'] = array(
 	'swmp-desc' => 'Plugin für den SignWriting-Thin-Betrachter',
 );
+
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'swmp-desc' => 'SignWriting Thin ビューアー用のプラグイン',
+);
+
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'swmp-desc' => 'Plugin pu Visualizzatore SignWriting Thin',
+);

@@ -29,11 +29,39 @@ $messages['de'] = array(
 	'swmp-desc' => 'Plugin für den SignWriting-Thin-Betrachter',
 );
 
+/** French (français)
+ * @author Metroitendo
+ */
+$messages['fr'] = array(
+	'swmp-desc' => 'Module pour le SignWriting Thin Viewer',
+);
+
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'swmp-desc' => 'Complemento para o SignWriting Thin Viewer',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
 $messages['ja'] = array(
 	'swmp-desc' => 'SignWriting Thin ビューアー用のプラグイン',
+);
+
+/** Macedonian (македонски)
+ * @author Bjankuloski06
+ */
+$messages['mk'] = array(
+	'swmp-desc' => 'Приклучок за прегледувачот „SignWriting Thin“',
+);
+
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'swmp-desc' => 'Plugin voor de SignWriting Thin Viewer',
 );
 
 /** tarandíne (tarandíne)

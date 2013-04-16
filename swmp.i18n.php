@@ -57,6 +57,12 @@ $messages['mk'] = array(
 	'swmp-desc' => 'Приклучок за прегледувачот „SignWriting Thin“',
 );
 
+/** Norwegian Bokmål (norsk bokmål)
+ */
+$messages['nb'] = array(
+	'swmp-desc' => 'Programtillegg for SignWriting Thin Viewer',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */

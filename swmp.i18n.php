@@ -22,6 +22,13 @@ $messages['qqq'] = array(
 	'swmp-desc' => '{{desc|name=SignWriting MediaWiki Plugin|url=https://www.mediawiki.org/wiki/Extension:SignWriting_MediaWiki_Plugin}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'swmp-desc' => 'Complementu pal visor llixeru de SignWriting',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */

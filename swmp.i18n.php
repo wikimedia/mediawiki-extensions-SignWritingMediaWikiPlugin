@@ -50,6 +50,13 @@ $messages['gl'] = array(
 	'swmp-desc' => 'Complemento para o SignWriting Thin Viewer',
 );
 
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'swmp-desc' => 'Plugin per il SignWriting Thin Viewer',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */

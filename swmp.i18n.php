@@ -90,3 +90,10 @@ $messages['nl'] = array(
 $messages['roa-tara'] = array(
 	'swmp-desc' => 'Plugin pu Visualizzatore SignWriting Thin',
 );
+
+/** Vietnamese (Tiếng Việt)
+ * @author Minh Nguyen
+ */
+$messages['vi'] = array(
+	'swmp-desc' => 'Phần bổ trợ dành cho Trình xem Mỏng SignWriting',
+);

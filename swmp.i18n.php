@@ -64,6 +64,13 @@ $messages['ja'] = array(
 	'swmp-desc' => 'SignWriting Thin ビューアー用のプラグイン',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'swmp-desc' => 'Ene Projrammzohsaz för der <i lang="en">SignWriting-Thin</i>-Bedraachter en et Wiki enzeboue.',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */

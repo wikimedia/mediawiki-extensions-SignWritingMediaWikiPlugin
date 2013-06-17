@@ -104,3 +104,10 @@ $messages['roa-tara'] = array(
 $messages['vi'] = array(
 	'swmp-desc' => 'Phần bổ trợ dành cho Trình xem Mỏng SignWriting',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'swmp-desc' => 'SignWriting Thin Viewer外掛程式',
+);

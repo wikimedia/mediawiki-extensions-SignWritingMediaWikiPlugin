@@ -64,6 +64,13 @@ $messages['ja'] = array(
 	'swmp-desc' => 'SignWriting Thin ビューアー用のプラグイン',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'swmp-desc' => 'SignWriting Thin Viewer를 위한 플러그인',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */

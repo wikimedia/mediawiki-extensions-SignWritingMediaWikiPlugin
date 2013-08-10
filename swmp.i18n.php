@@ -105,6 +105,13 @@ $messages['roa-tara'] = array(
 	'swmp-desc' => 'Plugin pu Visualizzatore SignWriting Thin',
 );
 
+/** Ukrainian (українська)
+ * @author Andriykopanytsia
+ */
+$messages['uk'] = array(
+	'swmp-desc' => 'Модуль для економного переглядача SignWriting (жестової писемності)',
+);
+
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
  */

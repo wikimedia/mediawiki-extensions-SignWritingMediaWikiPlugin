@@ -17,9 +17,10 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Metalhead64
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'swmp-desc' => '{{desc|name=SignWriting MediaWiki Plugin|url=https://www.mediawiki.org/wiki/Extension:SignWriting_MediaWiki_Plugin}}',
+	'swmp-desc' => '{{desc|name=SignWriting MediaWiki Plugin|url=http://www.mediawiki.org/wiki/Extension:SignWriting_MediaWiki_Plugin}}',
 );
 
 /** Asturian (asturianu)

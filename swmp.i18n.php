@@ -106,6 +106,13 @@ $messages['nl'] = array(
 	'swmp-desc' => 'Plugin voor de SignWriting Thin Viewer',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'swmp-desc' => 'Modul pel SignWriting Thin Viewer',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */

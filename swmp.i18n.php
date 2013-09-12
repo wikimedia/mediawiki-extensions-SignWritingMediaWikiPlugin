@@ -113,6 +113,13 @@ $messages['oc'] = array(
 	'swmp-desc' => 'Modul pel SignWriting Thin Viewer',
 );
 
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'swmp-desc' => 'Plugin para o SignWriting Thin Viewer',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */

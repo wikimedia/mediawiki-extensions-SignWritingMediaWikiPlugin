@@ -127,6 +127,13 @@ $messages['roa-tara'] = array(
 	'swmp-desc' => 'Plugin pu Visualizzatore SignWriting Thin',
 );
 
+/** Russian (русский)
+ * @author Okras
+ */
+$messages['ru'] = array(
+	'swmp-desc' => 'Плагин для SignWriting Thin Viewer',
+);
+
 /** Ukrainian (українська)
  * @author Andriykopanytsia
  */

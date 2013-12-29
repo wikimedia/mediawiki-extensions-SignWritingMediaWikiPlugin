@@ -37,6 +37,13 @@ $messages['de'] = array(
 	'swmp-desc' => 'Plugin für den SignWriting-Thin-Betrachter',
 );
 
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'swmp-desc' => 'Tykac za SignWriting Thin Viewer',
+);
+
 /** French (français)
  * @author Metroitendo
  */
@@ -56,6 +63,13 @@ $messages['gl'] = array(
  */
 $messages['he'] = array(
 	'swmp-desc' => 'תוסף ל־SignWriting Thin Viewer',
+);
+
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'swmp-desc' => 'Tykač za SignWriting Thin Viewer',
 );
 
 /** Italian (italiano)

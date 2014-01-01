@@ -162,6 +162,13 @@ $messages['vi'] = array(
 	'swmp-desc' => 'Phần bổ trợ dành cho Trình xem Mỏng SignWriting',
 );
 
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'swmp-desc' => 'SignWriting Thin Viewer插件',
+);
+
 /** Traditional Chinese (中文（繁體）‎)
  * @author Justincheng12345
  */

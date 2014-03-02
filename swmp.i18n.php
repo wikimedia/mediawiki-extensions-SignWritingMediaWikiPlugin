@@ -44,6 +44,13 @@ $messages['dsb'] = array(
 	'swmp-desc' => 'Tykac za SignWriting Thin Viewer',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'swmp-desc' => 'پلاگین برای بیننده ساین‌رایتینگ تین',
+);
+
 /** French (français)
  * @author Metroitendo
  */

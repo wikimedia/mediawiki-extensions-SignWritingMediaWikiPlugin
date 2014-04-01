@@ -21,7 +21,6 @@
  *
  * @copyright 2007-2013 Stephen E Slevinski Jr
  * @author Steve (slevin@signpuddle.net)
- * @version 3.0.0
  * @section License
  *   GPL 2, http://www.opensource.org/licenses/GPL-2.0
  * @brief MediaWiki wrapper for the SignWriting Thin Viewer
@@ -29,7 +28,7 @@
  *
  */
 
-$wgSWMPVersion = '3.0.0';
+$wgSWMPVersion = '3.1.0';
 $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
 	'name' => 'SignWriting MediaWiki Plugin',
@@ -39,10 +38,13 @@ $wgExtensionCredits['other'][] = array(
 	'descriptionmsg' => 'swmp-desc'
 );
 $wgResourceModules['ext.swmp'] = array(
-        'scripts' => 'signwriting_thin.js', 
+        'scripts' => 'signwriting_thin.js',
 	'localBasePath' => __DIR__,
         'remoteExtPath' => 'swmp',
 );
+
+$wgMessagesDirs['SignWritingMediaWikiPlugin'] = __DIR__ . '/i18n';
+$wgExtensionMessagesFiles['SignWritingMediaWikiPlugin'] = __DIR__ . '/swmp.i18n.php';
 
 $wgHooks['BeforePageDisplay'][] = 'swmpBeforePageDisplay';
 

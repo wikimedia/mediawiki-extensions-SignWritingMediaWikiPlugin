@@ -38,9 +38,9 @@ $wgExtensionCredits['other'][] = array(
 	'descriptionmsg' => 'swmp-desc'
 );
 $wgResourceModules['ext.swmp'] = array(
-        'scripts' => 'signwriting_thin.js',
+	'scripts' => 'signwriting_thin.js',
 	'localBasePath' => __DIR__,
-        'remoteExtPath' => 'swmp',
+	'remoteExtPath' => 'swmp',
 );
 
 $wgMessagesDirs['SignWritingMediaWikiPlugin'] = __DIR__ . '/i18n';
@@ -48,7 +48,7 @@ $wgExtensionMessagesFiles['SignWritingMediaWikiPlugin'] = __DIR__ . '/swmp.i18n.
 
 $wgHooks['BeforePageDisplay'][] = 'swmpBeforePageDisplay';
 
-function swmpBeforePageDisplay(&$out){
+function swmpBeforePageDisplay( &$out ) {
   $out->addModules( 'ext.swmp' );
   return true;
 }

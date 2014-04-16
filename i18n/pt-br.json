@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cainamarques"
-        ]
-    },
-    "swmp-desc": "Plugin para o SignWriting Thin Viewer"
+	"@metadata": {
+		"authors": [
+			"Cainamarques"
+		]
+	},
+	"swmp-desc": "Plugin para o SignWriting Thin Viewer"
 }

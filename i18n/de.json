@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Metalhead64"
-        ]
-    },
-    "swmp-desc": "Plugin für den SignWriting-Thin-Betrachter"
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"swmp-desc": "Plugin für den SignWriting-Thin-Betrachter"
 }

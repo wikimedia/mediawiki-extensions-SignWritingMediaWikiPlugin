@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Toliño"
-        ]
-    },
-    "swmp-desc": "Complemento para o SignWriting Thin Viewer"
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"swmp-desc": "Complemento para o SignWriting Thin Viewer"
 }

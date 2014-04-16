@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Justincheng12345"
-        ]
-    },
-    "swmp-desc": "SignWriting Thin Viewer外掛程式"
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"swmp-desc": "SignWriting Thin Viewer外掛程式"
 }

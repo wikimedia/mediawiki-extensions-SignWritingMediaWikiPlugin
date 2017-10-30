@@ -44,7 +44,6 @@ $wgResourceModules['ext.swmp'] = array(
 );
 
 $wgMessagesDirs['SignWritingMediaWikiPlugin'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['SignWritingMediaWikiPlugin'] = __DIR__ . '/swmp.i18n.php';
 
 $wgHooks['BeforePageDisplay'][] = 'swmpBeforePageDisplay';
 

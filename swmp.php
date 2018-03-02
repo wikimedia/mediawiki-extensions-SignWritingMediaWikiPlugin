@@ -21,8 +21,7 @@
  *
  * @copyright 2007-2013 Stephen E Slevinski Jr
  * @author Steve (slevin@signpuddle.net)
- * @section License
- *   GPL 2, http://www.opensource.org/licenses/GPL-2.0
+ * @license GPL-3.0-or-later
  * @brief MediaWiki wrapper for the SignWriting Thin Viewer
  * @file
  *
@@ -35,7 +34,8 @@ $wgExtensionCredits['other'][] = array(
 	'version' => $wgSWMPVersion,
 	'author' => 'Stephen E Slevinski Jr',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:SignWriting_MediaWiki_Plugin',
-	'descriptionmsg' => 'swmp-desc'
+	'descriptionmsg' => 'swmp-desc',
+	'license-name' => 'GPL-3.0-or-later',
 );
 $wgResourceModules['ext.swmp'] = array(
 	'scripts' => 'signwriting_thin.js',

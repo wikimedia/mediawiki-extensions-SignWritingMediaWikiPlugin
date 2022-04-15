@@ -1,4 +1,5 @@
 {
+	"name": "SignWritingMediaWikiPlugin",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"
